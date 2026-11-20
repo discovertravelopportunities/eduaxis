@@ -1,0 +1,8 @@
+.env
+.git
+node_modules
+npm-debug.log
+*.zip
+data/*.sqlite*
+uploads/*
+!uploads/.gitkeep
